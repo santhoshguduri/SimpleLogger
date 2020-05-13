@@ -1,0 +1,12 @@
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\Log1Net.deps.json
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\Log1Net.dll
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\Log1Net.csprojAssemblyReference.cache
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\Log1Net.AssemblyInfoInputs.cache
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\Log1Net.AssemblyInfo.cs
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\Log1Net.pdb
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\Log1Net.dll
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\Log1Net.pdb
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\Log1Net.runtimeconfig.json
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\Log1Net.runtimeconfig.dev.json
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\Log1Net.genruntimeconfig.cache
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\Log1Net.csproj.CoreCompileInputs.cache

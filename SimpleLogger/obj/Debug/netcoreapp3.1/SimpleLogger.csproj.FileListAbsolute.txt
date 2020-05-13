@@ -1,0 +1,12 @@
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\SimpleLogger.deps.json
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\SimpleLogger.runtimeconfig.json
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\SimpleLogger.runtimeconfig.dev.json
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\SimpleLogger.dll
+F:\santhosh\Nuget package\BasicLogging\Log1Net\bin\Debug\netcoreapp3.1\SimpleLogger.pdb
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\SimpleLogger.csprojAssemblyReference.cache
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\SimpleLogger.csproj.CoreCompileInputs.cache
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\SimpleLogger.AssemblyInfoInputs.cache
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\SimpleLogger.AssemblyInfo.cs
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\SimpleLogger.dll
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\SimpleLogger.pdb
+F:\santhosh\Nuget package\BasicLogging\Log1Net\obj\Debug\netcoreapp3.1\SimpleLogger.genruntimeconfig.cache

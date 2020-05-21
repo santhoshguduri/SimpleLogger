@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uf1+TdFKVH9rxStPWRMZ7T/Czesml+sO8eg52qQLGjJQRtFIqMHVMoY0Qa8bJYq8KXMDIra8+MOvsrqaem8l3Q==",
+  "dgSpecHash": "ZctNXqBi1rV3xgjDWqbdgmHvh1E8vKvB0jrLWs0sIw0FJUjowAsHRTrGqyo5Am6sEvQFadhm0jSO204dV8Iz2w==",
   "success": true,
-  "projectFilePath": "F:\\santhosh\\Nuget package\\BasicLogging\\Log1Net\\SimpleLogger.csproj",
+  "projectFilePath": "F:\\santhosh\\Nuget package\\BasicLogging\\SimpleLogger\\SimpleLogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SANTHOSH\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\SANTHOSH\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>SimpleLogging.Net</id>
+    <version>1.0.0</version>
+    <authors>SANTHOSH</authors>
+    <owners>SANTHOSH</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>A Basic Logger for Logging the actions to Database</description>
+    <releaseNotes>Added basic functionalities</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags></tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+		<dependency id="EntityFramework" version="6.4.0" />
+		<dependency id="System.Data.Entity.Repository" version="2.0.0.1" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+<file src="lib\SimpleLogger.dll" target="lib\SimpleLogger.dll" />
+</files>
+</package>

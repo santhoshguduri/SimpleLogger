@@ -1071,11 +1071,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\santhosh\\Nuget package\\BasicLogging\\ConsoleApp2\\SimpleLogger.Benchmarker.csproj",
+      "projectUniqueName": "F:\\santhosh\\Nuget package\\BasicLogging\\SimpleLogger.Benchmarker\\SimpleLogger.Benchmarker.csproj",
       "projectName": "SimpleLogger.Benchmarker",
-      "projectPath": "F:\\santhosh\\Nuget package\\BasicLogging\\ConsoleApp2\\SimpleLogger.Benchmarker.csproj",
+      "projectPath": "F:\\santhosh\\Nuget package\\BasicLogging\\SimpleLogger.Benchmarker\\SimpleLogger.Benchmarker.csproj",
       "packagesPath": "C:\\Users\\SANTHOSH\\.nuget\\packages\\",
-      "outputPath": "F:\\santhosh\\Nuget package\\BasicLogging\\ConsoleApp2\\obj\\",
+      "outputPath": "F:\\santhosh\\Nuget package\\BasicLogging\\SimpleLogger.Benchmarker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SANTHOSH\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1053,11 +1053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\santhosh\\Nuget package\\BasicLogging\\Log1Net\\SimpleLogger.csproj",
+      "projectUniqueName": "F:\\santhosh\\Nuget package\\BasicLogging\\SimpleLogger\\SimpleLogger.csproj",
       "projectName": "SimpleLogger",
-      "projectPath": "F:\\santhosh\\Nuget package\\BasicLogging\\Log1Net\\SimpleLogger.csproj",
+      "projectPath": "F:\\santhosh\\Nuget package\\BasicLogging\\SimpleLogger\\SimpleLogger.csproj",
       "packagesPath": "C:\\Users\\SANTHOSH\\.nuget\\packages\\",
-      "outputPath": "F:\\santhosh\\Nuget package\\BasicLogging\\Log1Net\\obj\\",
+      "outputPath": "F:\\santhosh\\Nuget package\\BasicLogging\\SimpleLogger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SANTHOSH\\AppData\\Roaming\\NuGet\\NuGet.Config",
